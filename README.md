@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tofarati
-- 👀 I’m interested in Wed design, Embedded systems, Automation and Robotics
-- 🌱 I’m currently learning shhh ...
+- 👀 I’m interested in  Embedded systems, Automation and Robotics
+
 
 
 <!---
